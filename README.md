@@ -1,14 +1,28 @@
 ### Hi there 👋
 
-I am Marzie, Astrophysicist turned data scientists. 
+I am Marzie, Astrophysics graduate turned data scientist.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a data science healthacare project to predict the persistency of drugs 
-- 🌱 I’m currently learning about Machine learning algorythms 
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a healthacare project to predict the persistency of drugs 
+- 🌱 I’m currently learning about machine learning, SQL and improving my python
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about astronomy 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her/hers
+- 
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📰 [newsletter][newsletter] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[er
+[instagram]: https://www.instagram.com/mrz.h94/
+[linkedin]: https://linkedin.com/in/smarziehho94
+[npm]: https://npmjs.com/~bradgarropy
