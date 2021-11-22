@@ -13,16 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her/hers
 - 
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📰 [newsletter][newsletter] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[er
 [instagram]: https://www.instagram.com/mrz.h94/
 [linkedin]: https://linkedin.com/in/smarziehho94
-[npm]: https://npmjs.com/~bradgarropy
