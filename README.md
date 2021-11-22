@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marzie, Astrophysics graduate turned data scientist.
+I am Marzie, an astrophysics graduate which get fascinated with data science world and turned datascientist. 
 
 Here are some ideas to get you started:
 
