@@ -1,12 +1,10 @@
-### Hi there 👋
+### 👋
 
-I am Marzie, an astrophysics graduate which is fascinated by the data science world and became a datascientist. 
+Hi, I am Marzie, an astrophysics graduate on the path to become a datascientist/ data analyst. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a healthacare project to predict the persistency of drugs 
-- 🌱 I’m currently learning about machine learning, SQL and improving my python
-- 💬 Ask me about astronomy
+- 🌱 I also learn about machine learning models , SQL fundamentals and Tableu. 
 -  ⚡ Fun fact: I enjoy cooking, travelling and playing violin!😀 
 - 😄 Pronouns: she/her/hers
 
