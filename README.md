@@ -1,12 +1,12 @@
 ### 👋 Hi, I am Marzie!
 
-An astrophysics graduate on the path to become a data scientist/data analyst. 
+An astrophysics graduate on the path to become a data analyst/data scientist. 
 
 
 I am interested in using data and scientific methods to drive insights and make predicitions. 
 
 - 🔭 I’m currently working on a healthacare project to predict the persistency of drugs.
-- 🌱 I am learning about SQL and tableue, and machine learning models which are necessary skills for a data scientist.
+- 🌱 I am learning about SQL and tableue, and business metrics which are necessary skills for a data analyst.
 - 
 -  ⚡ Fun fact: I enjoy cooking, travelling and playing violin!😀 
 -  
