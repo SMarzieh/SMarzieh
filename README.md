@@ -1,6 +1,8 @@
 ### 👋 Hi, I am Marzie!
 
 An astrophysics graduate on the path to become a data scientist/data analyst. 
+
+
 I am interested in using data to drive insights and make predicitions. 
 
 - 🔭 I’m currently working on a healthacare project to predict the persistency of drugs.
