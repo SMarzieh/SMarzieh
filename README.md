@@ -6,7 +6,7 @@ An astrophysics graduate on the path to become a data analyst/data scientist.
 I am interested in combining data analysis skills with scientific methods to drive insights. 
 
 - 🔭 I’m currently working on a healthacare group project which investigate the factors that affect persistency of drugs.
-- 🌱 Additionally,I am learning about various softwares such as SQL, Tableau and other related data science topics as well. 
+- 🌱 Also, I am learning about various softwares such as SQL, Tableau and other related data science topics as well. 
 - 
 -  ⚡ Fun fact: I enjoy cooking, travelling and playing violin!😀 
 -  
