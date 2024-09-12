@@ -1,9 +1,10 @@
-👋 Hi, I am Marzie!
-- I am interested in combining data analysis with scientific methods to drive insights and information from messy and unstructured data. I have a background in astrophysics.
-- 🔭 I’m currently working as a Power BI developer and data analyst in HexaBase.
-- 🌱 I am improving my skills in Power BI, Python and SQL by doing different projects. I also have done several projects in which I used machine learning algorithms. 
-- If you have any cool project/idea in mind which is related to data analytics/data science and would like to collaborate, this is my email : hosmarzi94@gmail.com
+👋 Hi, I'm Marzie!
 
+I have a background in astrophysics and a passion for combining data analysis with scientific methods to extract insights from messy, unstructured data.
+🔭 Currently, I’m working as a Power BI developer and data analyst at HexaBase, while actively seeking opportunities in data science to further grow my skills in this exciting field.
+🌱 I’m continuously honing my expertise in Power BI, Python, and SQL through hands-on projects. I’ve also completed several machine learning projects, applying algorithms to real-world data challenges.
+💡 If you have an interesting project or idea related to data analytics or data science and would like to collaborate, feel free to reach out to me: hosmarzi94@gmail.com.
+👔 LinkedIn
 
 
 👔 [linkedin][linkedin]
